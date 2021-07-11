@@ -1,6 +1,6 @@
 ## Privacy Policy
 
-ByeMC built the Bye's Twitter game as an Open Source game. This SERVICE is provided by ByeMC at no cost and is intended for use as is.
+ByeMC built the Bye's Twitter Client as an Open Source app. This SERVICE is provided by ByeMC at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
@@ -12,19 +12,19 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to Email Addresses (Stored on device), Twitter Account Details (Password not stored; Saved on device). The information that I request will be retained on your device and is not collected by me in any way.
 
-The game does use third party services that may collect information used to identify you.
-
-Link to privacy policy of third party service providers used by the game
+The app does use third party services that may collect information used to identify you.
+These include:
+- The [Twitter API](https://devs.twitter.com/) (required)
 
 **Log Data**
 
-I want to inform you that whenever you use my Service, in a case of an error in the game I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the game when utilizing my Service, the time and date of your use of the Service, and other statistics.
+I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
 
 **Cookies**
 
 Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
 
-This Service does not use these “cookies” explicitly. However, the game may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
 
 **Service Providers**
 
@@ -55,4 +55,4 @@ I may update our Privacy Policy from time to time. Thus, you are advised to revi
 
 **Contact Us**
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at twitter@byemc.xyz.
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at [twitter@byemc.xyz](mailto:twitter@byemc.xyz).
